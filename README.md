@@ -240,3 +240,6 @@ MoM Change %     = ((Current - Previous) / Previous) × 100
 ## License
 
 Built for academic / personal project use.
+
+## Author
+VISHRUTHA VC
